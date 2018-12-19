@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527337965450",
+    "firebase_url": "https://barcamp-cdae6.firebaseio.com",
+    "project_id": "barcamp-cdae6",
+    "storage_bucket": "barcamp-cdae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527337965450:android:faa877aa5cbd9411",
+        "android_client_info": {
+          "package_name": "com.smartcamp.aua.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527337965450-i5uhnjq388d4m3an768b56h3t99b245t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartcamp.aua.loginregister",
+            "certificate_hash": "be6758889c385ec62701821046b5f2e204b26011"
+          }
+        },
+        {
+          "client_id": "527337965450-jq7k0cbr1ibarav37l0teiej11c2novu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsn_Iz5JQO_wRd5zaI1BvPPhdFCaiEP9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527337965450-jq7k0cbr1ibarav37l0teiej11c2novu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
